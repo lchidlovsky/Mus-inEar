@@ -1,0 +1,44 @@
+main > div, main > h1{
+    text-align: center;
+    justify-content: center;
+}
+
+.playlist{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titre{
+    flex-basis: 40%;
+    background-color: #3F3F3F;
+    color: #FFF;
+    border-right: #FFF solid;
+    border-bottom: #FFF solid thin;
+    text-align: justify;
+    padding: 1vh 2vw 1vh 2vw;
+}
+
+.titre{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.check{
+    margin-top: 0.5vh;
+    max-height: 5vh;
+    max-width: 5vh;
+    padding-right: 2vw;
+    flex-basis: 25%;
+}
+
+.num{
+    padding-right: 2vw;
+    flex-basis: 10%;
+}
+
+.title{
+    text-decoration: none;
+    color: #FFF;
+    flex-grow: 1;
+    flex-basis: 60%;
+}

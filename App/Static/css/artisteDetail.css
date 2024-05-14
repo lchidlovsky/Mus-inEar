@@ -1,0 +1,80 @@
+main{
+    display: flex;
+    flex-wrap: nowrap;
+    box-shadow: 2vh 2vh 1vh gray;
+    margin: 0vh 25vh 4vh 25vh;
+    border: #3F3F3F solid;
+}
+
+.classification{
+    flex-basis: 20%;
+    text-align: center;
+    font-size: 2vh;
+    margin: 3vh 2vh 3vh 2vh;
+    border-right: #3F3F3F solid;
+}
+
+.artiste{
+    max-width: 45vh;
+    max-height: 45vh;
+    margin-right: 2vh;
+}
+
+.coeur{
+    max-height: 8vh;
+}
+
+.style{
+    text-align: left;
+    margin-left: 10vh;
+}
+
+.style > li {
+    list-style-type: none;
+    justify-content: center;
+    margin-right: 10vh;
+}
+
+.infos{
+    margin: 3vh 0vh 3vh 0vh;
+    flex-basis: 75%;
+    font-size: 2vh;
+}
+
+.description{
+    margin-left: 3vw;
+    justify-content: space-evenly;
+    font-size: 26px;
+    text-align : justify;
+    margin-right: 3vw;
+}
+
+.infos > h2{
+    text-align: center;
+}
+
+h2 img{
+    max-height: 2vh;
+    width: 20vw;
+}
+
+.content{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.album{
+    flex-basis: 20%;
+    flex-grow: 1;
+    margin: 0vh 3vh 0vh 3vh;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.album img{
+    height: 20vh;
+}

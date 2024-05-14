@@ -1,0 +1,13 @@
+body{
+    border: solid 2.5px;
+    border-radius: 75px;
+    padding-top: 20px;
+    padding-bottom: 20px;   
+    margin-top: 25px;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 20vh;
+    font-size: 25px;
+}

@@ -1,0 +1,97 @@
+main{
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 2vh;
+}
+
+main > section{
+    flex-basis: 50%;
+}
+
+.description{
+    text-align: center;
+}
+
+.couverture{
+    height: 55vh;
+}
+
+.genres{
+    display: flex;
+    justify-content: center;
+}
+
+.genres > *{
+    margin-left: 2vh;
+    margin-bottom: 0;
+}
+
+.detail{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-right: 7vw;
+}
+
+.coeur{
+    max-height: 12vh;
+    max-width: 12vh;
+    margin-top: 4vh;
+    margin-left: 6vh;
+}
+
+.noms{
+    font-size: 1.56em;
+}
+
+.noms h1, .noms h2, .noms p{
+    margin: 2vh;
+    font-size: 1.5vw;
+}
+
+.noms, .coeur{
+    flex-basis: 45%;
+}
+
+a{
+    color: black;
+}
+
+.track{
+    background-color: #3F3F3F;
+    color: #FFF;
+    margin-right: 6vh;
+    box-shadow: 2vh 2vh 1vh gray;
+    padding-bottom: 2vh;
+}
+
+.track h2, .titre{
+    margin-left: 4vh;
+}
+
+.titre{
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 0.833vw;
+}
+
+.check{
+    max-height: 5vh;
+    max-width: 5vh;
+    padding-right: 2vw;
+}
+
+.num{
+    padding-right: 2vw;
+    flex-basis: 10%;
+}
+
+.title{
+    flex-grow: 1;
+    flex-basis: 60%;
+}
+
+.titre > img{
+    flex-basis: 25%;
+    max-height: 5vh;
+}

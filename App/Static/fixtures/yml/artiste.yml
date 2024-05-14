@@ -1,0 +1,89 @@
+- entryId: 1
+  nom: Stray Kids
+  biographie: "Stray Kids, formé en 2017 par JYP Entertainment, est un groupe de K-pop composé de huit membres.
+        Connus pour leurs paroles significatives et leurs performances énergiques, ils abordent des thèmes comme l'adolescence et l'identité.
+        Avec des albums à succès comme 'GO生' et 'NOEASY', le groupe est salué pour son authenticité artistique et sa base de fans mondiale.
+        Stray Kids est devenu un acteur majeur de la scène K-pop contemporaine."
+  cheminPhoto: skz.webp
+- entryId: 2
+  nom: Evanescence
+  biographie: "Evanescence est un groupe de rock alternatif américain connu pour son style sombre et atmosphérique, associant des éléments de rock, de metal et de musique orchestrale. 
+  Mené par la voix puissante et envoûtante d'Amy Lee, le groupe a captivé les auditeurs avec des hits comme 'Bring Me to Life' et 'My Immortal', qui évoquent des émotions profondes et intenses. 
+  Leur musique est souvent caractérisée par des arrangements élaborés et des paroles poignantes, explorant des thèmes tels que la douleur, la solitude et la résilience."
+  cheminPhoto: evanescence.jpg
+- entryId: 3
+  nom: Twenty One Pilots
+  biographie: "Twenty One Pilots est un groupe de musique américain célèbre pour son mélange éclectique de genres, allant du pop au rap 
+  en passant par le rock alternatif. Le duo, composé de Tyler Joseph et Josh Dun, est réputé pour ses paroles introspectives explorant 
+  des thèmes tels que la lutte contre la dépression, l'anxiété et la quête de sens dans la vie moderne. Leur énergie sur scène et leur 
+  créativité musicale en font l'un des groupes les plus captivants et influents de la scène musicale contemporaine."
+  cheminPhoto: top.jpg
+- entryId: 4
+  nom: Superdrag
+  biographie: "Superdrag était un groupe de rock alternatif américain de Knoxville, Tennessee, États-Unis. Ils ont sorti un single à succès en 1996, 
+        'Sucked Out', tiré de leur album Regretfully Yours. La formation originale s'est réunie en 2007 et a sorti un album complet en 2009 : Industry Giants."
+  cheminPhoto: superdrag.jpg
+- entryId: 5
+  nom: 16 Horsepower
+  biographie: "16 Horsepower est un groupe de rock américain, originaire de Denver, dans le Colorado. Il est formé en 1992 par David Eugene Edwards et Pascal Humbert. 
+  Basé à Denver, il est à ce titre un groupe éminent du Denver Sound. Le groupe se sépare en 2005."
+  cheminPhoto: 16horsepower.jpg
+- entryId: 6
+  nom: Whiskeytown
+  biographie: "Whiskeytown était un groupe de country alternatif américain formé en 1994 à Raleigh, en Caroline du Nord. Dirigé par Ryan Adams, le groupe 
+  comprenait les membres Caitlin Cary, Phil Wandscher, Eric 'Skillet' Gilmore et Mike Daly. Ils se sont dissous en 2000 et Adams est parti pour poursuivre sa carrière solo."
+  cheminPhoto: whiskeytown.jpeg
+- entryId: 7
+  nom: Jesse Malin
+  biographie: "Jesse Malin est un musicien rock américain, guitariste et auteur-compositeur. Il a commencé sa carrière d'interprète dans le groupe hardcore new-yorkais Heart Attack et s'est fait connaître en tant que chanteur de la génération D."
+  cheminPhoto: jessemalin.jpg
+- entryId: 8
+  nom: The Finger
+  biographie: "The Finger était un groupe de punk hardcore, formé par Ryan Adams et Jesse Malin, respectivement sous les pseudonymes de « Warren Peace » et « Irving Plaza » (avec Colin Burns et Johnny T. Yerington sous le nom de « Jim Beahm » et « Rick O'Shea »)."
+  cheminPhoto: tehfinger.jpg
+- entryId: 9
+  nom: Terry Allen
+  biographie: "Terry Allen (né le 7 mai 1943) est un musicien et artiste américain originaire de Lubbock, au Texas. La carrière musicale d'Allen en tant qu'auteur-compositeur-interprète s'est étendue sur de nombreux albums de country texan et de country hors-la-loi, 
+  et son travail en tant qu'artiste visuel a inclus la peinture, l'art conceptuel, la performance et la sculpture, avec un certain nombre de sculptures en bronze remarquables installées publiquement dans diverses villes du monde. les États Unis. Il vit actuellement à Santa Fe, au Nouveau-Mexique."
+  cheminPhoto: terryAllen.jpg
+- entryId: 10
+  nom: Joan Baez
+  biographie: "Joan Baez est l'une des voix des années 1960 et 1970. Cette soprano, 
+  souvent surnommée « la reine du folk » ou encore « la madone des pauvres gens », 
+  impose Bob Dylan et ses chansons au public américain ainsi qu'au monde entier."
+  cheminPhoto: Joan_Baez.jpg
+- entryId: 11
+  nom: Willie Nelson
+  biographie: "Willie Nelson, né le 29 avril 1933 à Abbott, au Texas, est un acteur, 
+  producteur, chanteur et guitariste de musique country américain. Son nom est plus 
+  spécialement attaché au style « outlaw country »."
+  cheminPhoto: Willie_Nelson.jpg
+- entryId: 12
+  nom: Cowboy Junkies
+  biographie: "Cowboy Junkies est un groupe canadien de country alternatif, 
+  blues rock et folk rock composé par trois membres de la famille Timmins, 
+  Michael à la guitare, Peter à la batterie et Margo au chant, le quatrième 
+  musicien est Alan Anton qui joue la basse tous nés à Montréal au Québec.."
+  cheminPhoto: Cowboy_Junkies.jpg
+- entryId: 13
+  nom: Alabama Shakes
+  biographie: "Alabama Shakes est un groupe de rock américain, originaire d'Athens, 
+  en Alabama. Il est formé en 2009, et composé de Brittany Howard (voix et guitare), 
+  Heath Fogg (guitare), Zac Cockrell (basse) et Steve Johnson (batterie)."
+  cheminPhoto: Alabama_Shakes.jpg
+- entryId: 14
+  nom: X
+  biographie: "X est un groupe de punk rock américain, originaire de Los Angeles, 
+  en Californie. Il se compose d'Exene Cervenka au chant, de John Doe à la basse et au chant, 
+  de Billy Zoom à la guitare et de Mick Basher à la batterie, rapidement remplacé par D.J. Bonebrake."
+  cheminPhoto: X.jpg
+- entryId: 15
+  nom: Dave Alvin
+  biographie: "David Albert Alvin, né le 11 novembre 1955, est un auteur-compositeur-interprète, 
+  guitariste, producteur de musique et poète américain. Il est un ancien membre fondateur du groupe 
+  de rock roots The Blasters."
+  cheminPhoto: Dave_Alvin.jpg
+- entryId: 16
+  nom: Ryan Adams
+  biographie: "David Ryan Adams est un auteur-compositeur-interprète américain de rock/country alternative originaire de Jacksonville."
+  cheminPhoto: ryanAdams.jpg

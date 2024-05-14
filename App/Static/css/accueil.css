@@ -1,0 +1,35 @@
+main a{
+    list-style-type: none;
+    text-decoration:none;
+    color: black;
+    text-align: center;
+}
+
+main > h2 {
+    z-index: 1;
+    font-size: 50px;
+}
+
+.container{
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.titre{
+    text-align: center;
+}
+
+.albums{
+    padding: 1vw;
+}
+
+.album{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 4vw;
+}
+
+.album img{
+    height: 20vh;
+}
